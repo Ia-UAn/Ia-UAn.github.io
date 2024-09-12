@@ -2,6 +2,6 @@
     "title":"シナから",
     "subTitle":"シナのブログ",
     "avatarUrl":"https://avatars.githubusercontent.com/u/181000570?v=4",
-    "allHead":"<script src="https://fastly.jsdelivr.net/gh/stevenjoezhang/live2d-widget@latest/autoload.js"></script>",
+    "allHead":"<script src='https://fastly.jsdelivr.net/gh/stevenjoezhang/live2d-widget@latest/autoload.js'></script>",
     "GMEEK_VERSION":"last"
 }
